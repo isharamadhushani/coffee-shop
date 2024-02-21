@@ -1,2 +1,5 @@
-# coffee-shop
-main repo of coffee shop project
+<html>
+  <title> Welcome To Shop</title>
+  <body> <h1> Ice Coffee</h1></body>
+</html>
+
